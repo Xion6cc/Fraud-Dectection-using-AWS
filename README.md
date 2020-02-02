@@ -1,7 +1,6 @@
 # Supervised Anomaly Detection & Real Time Notification Using Amazon Sagemaker, AWS Kinesis, AWS SNS and AWS Quicksight
 
-Group members: Zheming Lian, Jiahui Jiang, Shunshun Miao, Pahal Patangia, Fazel Tabassum, Chuchen Xiong
-
+Credit: Zheming Lian, Jiahui Jiang, Shunshun Miao, Pahal Patangia, Fazel Tabassum, Chuchen Xiong
 
 ## Project Description
 
@@ -70,3 +69,4 @@ Subset data that has assigned a fraud label by our model
 **step9_manifest.json**
 
 config Quicksight dashboard.
+
