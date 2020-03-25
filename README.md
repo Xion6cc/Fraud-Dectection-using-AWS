@@ -1,6 +1,6 @@
 # Supervised Anomaly Detection & Real Time Notification Using Amazon Sagemaker, AWS Kinesis, AWS SNS and AWS Quicksight
 
-Credit: Zheming Lian, Jiahui Jiang, Shunshun Miao, Pahal Patangia, Fazel Tabassum, Chuchen Xiong
+Credit: Chuchen Xiong, Zheming Lian, Jiahui Jiang, Shunshun Miao, Pahal Patangia, Fazel Tabassum
 
 Reference: https://github.com/aws-samples/amazon-sagemaker-fraud-detection
 
