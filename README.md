@@ -4,6 +4,10 @@ Credit: Chuchen Xiong, Zheming Lian, Jiahui Jiang, Shunshun Miao, Pahal Patangia
 
 Reference: https://github.com/aws-samples/amazon-sagemaker-fraud-detection
 
+![Handout_Page_1](https://user-images.githubusercontent.com/47108273/81863820-6645ad80-9531-11ea-88ba-08e3b2debcfc.jpg)
+
+![Handout_Page_2](https://user-images.githubusercontent.com/47108273/81863843-6fcf1580-9531-11ea-86dd-ab517e63c092.jpg)
+
 ## Project Description
 
 Anomaly detection is a technique used to identify rare items, events, or observations which raise suspicion by differing significantly from most of the data you are analyzing. There are a wide range of applications in different industries including abnormal purchases in retail, cyber intrusions in banking, fraudulent claims in insurance, unusual machine behavior in manufacturing, and even detecting strange patterns in network traffic that could signal an intrusion. Leveraging a solution provided by [aws](https://s3.amazonaws.com/solutions-reference/fraud-detection-using-machine-learning/latest/fraud-detection-using-machine-learning.pdf), we developed an end-to-end anomaly detection workflow starting from data streaming to dashboarding. 
