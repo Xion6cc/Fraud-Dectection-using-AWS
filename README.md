@@ -2,8 +2,6 @@
 
 Credit: Chuchen Xiong, Zheming Lian, Jiahui Jiang, Shunshun Miao, Pahal Patangia, Fazel Tabassum
 
-Reference: https://github.com/aws-samples/amazon-sagemaker-fraud-detection
-
 ![Handout_Page_1](https://user-images.githubusercontent.com/47108273/81863820-6645ad80-9531-11ea-88ba-08e3b2debcfc.jpg)
 
 ![Handout_Page_2](https://user-images.githubusercontent.com/47108273/81863843-6fcf1580-9531-11ea-86dd-ab517e63c092.jpg)
@@ -76,3 +74,4 @@ Subset data that has assigned a fraud label by our model
 
 config Quicksight dashboard.
 
+Reference: https://github.com/aws-samples/amazon-sagemaker-fraud-detection
